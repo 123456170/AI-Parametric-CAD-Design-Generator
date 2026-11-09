@@ -1,0 +1,5 @@
+streamlit
+cadquery
+numpy
+pandas
+pytest
